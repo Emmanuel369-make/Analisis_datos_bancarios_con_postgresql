@@ -1,7 +1,7 @@
 # Análisis de Datos de Transacciones Bancarias en Colombia (2024–2025)
 
 > **Autor:** Emmanuel Rendon Vélez
-> **Fecha:** Octubre 2026
+> **Fecha:** Noviembre 2026
 > **Herramientas utilizadas:** PostgreSQL, Power BI
 
 ---
